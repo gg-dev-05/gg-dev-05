@@ -48,9 +48,10 @@
 
 
 <hr>
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gg-dev-05&show_icons=true&locale=en&theme=dracula" alt="gg-dev-05" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gg-dev-05&theme=tokyonight" alt="gg-dev-05" /></p>
-</p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gg-dev-05&show_icons=true&locale=en&theme=dracula" alt="gg-dev-05" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gg-dev-05&theme=tokyonight" alt="gg-dev-05" /></p>
+
 
 
