@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Garvit Galgat</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-
+<h3 align="center"><samp>Hi 👋, I am <b>Garvit Galgat</b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 B.Tech CSE @  <b>IIT Indore</b> 」<br>
+    「 I am a MERN Stack Developer 」<br>
+  </samp>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gg-dev-05&label=Profile%20views&color=0e75b6&style=flat" alt="gg-dev-05" /> </p>
 
 
-<h3 align="left">Connect with me on:</h3>
+<details open="true">
+<summary>Connect with me</summary>
 <p align="center">
 <code><a href="https://linkedin.com/in/garvit-galgat-17122a191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="30" width="40" /></a></code>
 <code><a href="https://stackoverflow.com/users/12136201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12136201" height="30" width="40" /></a></code>
 <code><a href="https://instagram.com/garvit.05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="garvit.05" height="30" width="40" /></a></code>
 </p>
-
+</details>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -40,19 +45,12 @@
 </p>
 
 
-<h4>Mobile Development</h4>
-<p align="center">
-<code><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a></code>
-<code><a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a></code>
-</p>
+
 
 <hr>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gg-dev-05&show_icons=true&locale=en&theme=dracula" alt="gg-dev-05" /></p>
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gg-dev-05&theme=tokyonight" alt="gg-dev-05" /></p>
-
-
-<p>
-<h2 align="center">HALL OF FAME </h2>
-<p align="center"> <code><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gg-dev-05" alt="gg-dev-05" /></a></code> </p>
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gg-dev-05&show_icons=true&locale=en&theme=dracula" alt="gg-dev-05" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gg-dev-05&theme=tokyonight" alt="gg-dev-05" /></p>
 </p>
+
+
