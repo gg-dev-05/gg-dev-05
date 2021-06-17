@@ -11,7 +11,7 @@
 <details open="true">
 <summary>Connect with me</summary>
 <p align="center">
-<code><a href="https://linkedin.com/in/garvit-galgat-17122a191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="30" width="40" /></a></code>
+<code><a href="https://linkedin.com/in/gg-dev-05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="30" width="40" /></a></code>
 <code><a href="https://stackoverflow.com/users/12136201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12136201" height="30" width="40" /></a></code>
 <code><a href="https://instagram.com/garvit.05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="garvit.05" height="30" width="40" /></a></code>
 </p>
