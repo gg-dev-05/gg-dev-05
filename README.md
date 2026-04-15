@@ -2,9 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=gg-dev-05&label=Profile%20views&color=0e75b6&style=flat" alt="gg-dev-05" />
 
-Software Engineer at **Oracle** | IIT Indore '23 | I like building things that ship.
+Software Engineer at **Oracle** | IIT Indore '23
 
-By day I work on [Oracle Unified Directory](https://www.oracle.com/security/identity-management/unified-directory/) — distributed directory services at enterprise scale. By night I build AI-powered products and occasionally break things on purpose (5+ CVEs found and patched).
+I work on [Oracle Unified Directory](https://docs.oracle.com/en/middleware/idm/unified-directory/14.1.2/) — distributed directory services at enterprise scale. Most of what I build outside of work ends up here.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gg-dev-05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:garvitgalgat@gmail.com)
