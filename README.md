@@ -13,7 +13,7 @@ I work on [Oracle Unified Directory](https://docs.oracle.com/en/middleware/idm/u
 
 ### What I'm building
 
-- [**FirstPrinciples.AI**](https://firstprinciples.ai) — Automated financial modeling platform. Knowledge graphs + LLMs to map company dependencies and propagate impact across models.
+- [**FirstPrinciples.AI**](https://firstprincipleinvesting.vercel.app/) — Automated financial modeling platform. Knowledge graphs + LLMs to map company dependencies and propagate impact across models.
 - [**Telecraft Labs**](https://telecraft-labs.netlify.app/showcase) — Text-to-video generation pipeline. Serverless on AWS Lambda. Went from $120/mo to $6/mo.
 - [**PanOph**](https://panoph.com) — Ophthalmology learning platform (Next.js + Flutter). 300+ users, 105 interactive clinical cases.
 - [**AnalytiQ**](https://github.com/Data-Quotient/analytiq) — End-to-end data workflows: validation, preprocessing, AutoML.
