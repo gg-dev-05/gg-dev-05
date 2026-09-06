@@ -26,7 +26,7 @@ Built a Python/LangChain platform using knowledge graphs to model company
 dependencies, automate earnings parsing, and generate Excel model changes
 with audit trails.
 
-**[Telecraft Labs](https://telecraft-labs.netlify.app/showcase)** — AI text-to-video pipeline
+**[Telecraft Labs](https://telecraft-labs.netlify.app)** — AI text-to-video pipeline
 Combined generated visuals, multilingual narration, and FFmpeg composition.
 Moved processing from EC2 to Lambda and S3, reducing infrastructure costs
 from **$120/month to $6/month**. Published **80+ videos with 15K+ YouTube views**.
